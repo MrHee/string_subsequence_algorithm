@@ -19,7 +19,7 @@ public class Main {
 
                 //check if the letters are the same.
                 if( phrase.charAt(i+j)  == key.charAt(j) ){
-
+                    //All good, do nothing.
                 }
                 else{
                     //If they are different, break this loop
